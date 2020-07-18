@@ -26,7 +26,7 @@ Helpful sites:
 
 Database (LFW): https://www.kaggle.com/atulanandjha/lfwpeople
 
-## Accuracy
+## Accuracy 99%
 ![Accuracy](/results/resultsModelAccuracy.png)
 ## Result with my images</h5>
 ![Accuracy](/results/resultsWithMyImages.png?raw=true)
