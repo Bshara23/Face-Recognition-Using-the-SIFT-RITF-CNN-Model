@@ -7,7 +7,7 @@ This is based mostly on the articles below (I also made some improvements based 
 2. Ke Yan, Yaowei Wang, Dawei Liang, Tiejun Huang, Yonghong Tian - CNN vs. SIFT for Image Retrieval: Alternative or Complementary?
 3. Mundher Al-Shabi, Wooi Ping Cheah, Tee Connie - Facial Expression Recognition Using a Hybrid CNN–SIFT Aggregator
 
-
+Note:
 The code generates and saves numpy arrays to your hard drive to improve the training speed, so it's important that you run the jupyter notebooks by order,
 every notebook starts with a number that indicates the execution order (starting from 1).
 
