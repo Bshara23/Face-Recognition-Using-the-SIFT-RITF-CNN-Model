@@ -26,4 +26,4 @@ Helpful sites:
 
 Database (LFW): https://www.kaggle.com/atulanandjha/lfwpeople
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+[Contribution guidelines for this project](results/resultsModelAccuracy.png)
