@@ -12,6 +12,15 @@ The code generates and saves numpy arrays to your hard drive to improve the trai
 every notebook starts with a number that indicates the execution order (starting from 1).
 
 
+
+
+## Accuracy (99%)
+![Accuracy](/results/resultsModelAccuracy.png)
+## Result with my images</h5>
+![Accuracy](/results/resultsWithMyImages.png?raw=true)
+
+## Resources
+
 Libraries and APIs:
 1. OpenCV docs and examples - https://scikit-learn.org/
 2. Scikit-learn docs and examples - https://opencv.org/
@@ -25,8 +34,3 @@ Helpful sites:
 2. https://www.pyimagesearch.com/2015/12/07/local-binary-patterns-with-python-opencv/
 
 Database (LFW): https://www.kaggle.com/atulanandjha/lfwpeople
-
-## Accuracy (99%)
-![Accuracy](/results/resultsModelAccuracy.png)
-## Result with my images</h5>
-![Accuracy](/results/resultsWithMyImages.png?raw=true)
